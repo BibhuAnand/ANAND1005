@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/BibhuAnand/ANAND1005.git'
+                git 'https://github.com/BibhuAnand.git'
             }
         }
 
